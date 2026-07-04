@@ -29,6 +29,8 @@
 > [!IMPORTANT]
 > **Recent Projects**:
 >
+> * [**nexa**](https://github.com/onlyv4ns/nexa) — Terminal-styled AI workspace UI built with Next.js. Chat, code, explore, and project management in one keyboard-first interface.
+>
 > * [**wraith**](https://github.com/onlyv4ns/wraith) — Undetected browser automation in Go, bypasses Cloudflare Turnstile & bot detection. Stream automation at scale without detection.
 >
 > * [**rikontol**](https://github.com/onlyv4ns/rikontol) — 11-stage automated bug bounty recon pipeline. Comprehensive scanning: subdomains → nuclei scanning → takeover detection → HTML reports. Built to handle large-scale reconnaissance.
